@@ -15,7 +15,7 @@
 
 Hi there, I'm **Ananda Arya Pratama**, a **Web Devloper** and a **Software Engineering Student** from Indonesia.
 
-  <img align="right" alt="GIF" src="https://2.bp.blogspot.com/-AU4dJ99ahuI/WcSTNTslcJI/AAAAAAAACIg/jqQTpHui66g8L_Il3eMUXfJywMJ7bowEgCLcBGAs/s400/tired.gif" />
+  <img align="right" alt="GIF" src="https://31.media.tumblr.com/4f50a97b432a33b6cc440b2576edd53e/tumblr_mjrzzbMjO11qzfv3oo1_500.gif" />
 
 **Talking about Personal Stuffs:**
 
