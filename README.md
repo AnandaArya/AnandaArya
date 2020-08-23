@@ -30,16 +30,15 @@ Hi there, I'm **Ananda Arya Pratama**, a **Web Devloper** and a **Software Engin
 
 
 **Languages and Tools:** 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html5/html5.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/codeigniter/codeigniter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 
@@ -47,19 +46,19 @@ Hi there, I'm **Ananda Arya Pratama**, a **Web Devloper** and a **Software Engin
 <summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
   <br />
   
- [![Syauqi's github stats](https://github-readme-stats.vercel.app/api?username=syauqi)](https://github.com/syauqi/learnify)
+ [![My github stats](https://github-readme-stats.vercel.app/api?username=AnandaArya)](https://github.com/AnandaArya)
  
   </details>
 
+<!--
 <h3> Check 🐱‍🏍, Most Popular Repositories: </h3>
 
-<a href="https://github.com/syauqi/learnify">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=learnify" />
+<a href="https://github.com/AnandaArya/productly-landing-page">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AnandaArya&repo=productly" />
 </a>
 </p>
-<a href="https://github.com/syauqi/gameina">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=syauqi&repo=gameina" />
-</a>
+
+-->
 
 
 
