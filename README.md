@@ -1,9 +1,6 @@
 ### Hi I'M Arya Pratama 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AnandaArya)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Profile views](https://gpvc.arturio.dev/syauqi)
+![Profile views](https://gpvc.arturio.dev/AnandaArya)
 
 <a href="https://www.instagram.com/arya_pratam/">
   <img align="left" alt="Arya_pratama Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -30,7 +27,7 @@ Hi there, I'm **Ananda Arya Pratama**, a **Web Devloper** and a **Software Engin
 
 
 **Languages and Tools:** 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html5/html5.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
