@@ -44,6 +44,7 @@ Hi there, I'm **Ananda Arya Pratama**, a **Web Devloper** and a **Software Engin
 <summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
   <br />
 -->
+<br />
  [![My github stats](https://github-readme-stats.vercel.app/api?username=AnandaArya)](https://github.com/AnandaArya)
  
  <!--
