@@ -24,7 +24,7 @@ Hi there, I'm **Ananda Arya Pratama**, a **Web Devloper** and a **Software Engin
 - 🌱 I’m currently learning ExpressJS, ReactJS ~✨; 
 - 🤔 I am interested in mobile development;
 - 📫 My Email: anandaar0404@gmail.com.
-- 🌍 Website: [https://github.com/AnandaArya](https://anandaarya.github.io/)
+- 🌍 Website: https://anandaarya.github.io/
 
 
 
