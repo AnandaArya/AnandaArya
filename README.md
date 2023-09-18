@@ -1,6 +1,5 @@
 ### Hi I'M Arya Pratama 👋
 
-
 <a href="https://www.instagram.com/arya_pratam/">
   <img align="left" alt="Arya_pratama Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
