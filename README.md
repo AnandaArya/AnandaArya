@@ -1,4 +1,4 @@
-### Hi I'M Arya Pratama 👋
+### Hi I'M Ananda Arya Pratama 👋
 
 <a href="https://www.instagram.com/arya_pratam/">
   <img align="left" alt="Arya_pratama Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -21,7 +21,7 @@ Hi there, I'm **Ananda Arya Pratama**, a **Web Devloper** and a **Software Engin
 - 👨🏽‍💻 I’m currently a web developer;
 - 🌱 I’m currently learning ExpressJS, ReactJS ~✨; 
 - 🤔 I am interested in mobile development;
-- 📫 My Email: anandaar0404@gmail.com.
+- 📫 My Email: anandaarya.dev@gmail.com.
 - 🌍 Website: https://anandaarya.github.io/
 
 
