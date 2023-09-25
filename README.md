@@ -26,5 +26,5 @@
 <img width="100%" height="30%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandaarya&" alt="anandaarya" />
 
 <img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandaarya&show_icons=true&locale=en&layout=compact" alt="anandaarya" />
-<img width="57% align="right" src="https://github-readme-stats.vercel.app/api?username=anandaarya&show_icons=true&locale=en" alt="anandaarya" />
+<img width="53% align="right" src="https://github-readme-stats.vercel.app/api?username=anandaarya&show_icons=true&locale=en" alt="anandaarya" />
 
