@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananda Arya Pratama Ar Ridho</h1>
+<h1 align="center">Hi 👋, I'm Ananda Arya Pratama</h1>
 <img align="center" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 <h3 align="center">I am a Software Engineering graduate and an IT Enthusiast. My areas of expertise include both front-end and back-end development. I am highly motivated by collaborative environments where I can interact with team members and engage in meaningful discussions to deliver successful projects.</h3>
 
@@ -25,7 +25,6 @@
 
 <img width="100%" height="30%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandaarya&" alt="anandaarya" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandaarya&show_icons=true&locale=en&layout=compact" alt="anandaarya" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anandaarya&show_icons=true&locale=en" alt="anandaarya" /></p>
+<img width="41%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandaarya&show_icons=true&locale=en&layout=compact" alt="anandaarya" />
+<img width="57% align="right" src="https://github-readme-stats.vercel.app/api?username=anandaarya&show_icons=true&locale=en" alt="anandaarya" />
 
