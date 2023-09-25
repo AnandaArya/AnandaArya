@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anandaarya.github.io/](https://anandaarya.github.io/)
 
-- 💬 Ask me about **full stack development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **anandaarya.dev@gmail.com**
 
